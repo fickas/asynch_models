@@ -1,4 +1,4 @@
-,Age,Gender,Class,Joined,Married,Fare,Survived
+Age,Gender,Class,Joined,Married,Fare,Survived
 0,41.0,Male,C3,Southampton,0.0,7.0,0
 1,21.0,Male,Crew,Southampton,0.0,0.0,0
 2,13.0,Male,C3,Southampton,,20.0,0
